@@ -1,22 +1,21 @@
-<h1 align="leftr">Hi 👋, I'm Sheethal R</h1>
+<h1 align="left">Hi 👋, I'm Sheethal R</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sheethalsheethu&label=Profile%20views&color=0e75b6&style=flat" alt="sheethalsheethu" /> </p>
+<p align="left">Profile views: <img src="https://komarev.com/ghpvc/?username=sheethalsheethu&label=Profile%20views&color=0e75b6&style=flat" alt="sheethalsheethu" /></p>
 
 - 🔭 I’m currently working on **Full-Stack project**
 
-- 🧑‍💻 Connect with me on LinkedIn <a href="https://linkedin.com/in/sheethal-r-gowda" target="blank"> alt="sheethal-r-gowda" /></a>
+- 🧑‍💻 Connect with me on [LinkedIn](https://linkedin.com/in/sheethal-r-gowda)
 
-- ⚙️ Familiar with **Python, JAVA, OOP's ,C, C++, Java Script**
+- ⚙️ Familiar with **Python, JAVA, OOP's, C, C++, JavaScript**
 
 - 📫 How to reach me **sheethugowda2003@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/sheethal-r-gowda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sheethal-r-gowda" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sheethal-r-gowda" target="_blank">sheethal-r-gowda</a>
 </p>
 
--👇 Check out my projects below!
-
+- 👇 Check out my projects below!
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sheethalsheethu&show_icons=true&locale=en&layout=compact" alt="sheethalsheethu" /></p>
 
