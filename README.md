@@ -4,7 +4,7 @@
 
 - 🧑‍💻 Connect with me on [LinkedIn](https://linkedin.com/in/sheethal-r-gowda)
 
-- 📄 View my resume at[Resume]( https://sheethalsheethu.github.io/sheethalr/).
+- 📄 View my resume at [Resume]( https://sheethalsheethu.github.io/sheethalr/).
 
 - ⚙️ Familiar with **Python, JAVA, OOP's, C, C++, JavaScript**
 
