@@ -16,7 +16,3 @@
 </p>
 
 - 👇 Check out my projects below!
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sheethalsheethu&show_icons=true&locale=en&layout=compact" alt="sheethalsheethu" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sheethalsheethu&show_icons=true&locale=en" alt="sheethalsheethu" /></p>
