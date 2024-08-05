@@ -10,9 +10,4 @@
 
 - 📫 How to reach me **sheethugowda2003@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/sheethal-r-gowda" target="_blank">sheethal-r-gowda</a>
-</p>
-
 - 👇 Check out my projects below!
