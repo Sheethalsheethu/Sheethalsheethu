@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **Full-Stack project**
 
-- 🌱 I’m currently learning **Devops,Generative AI**
+- 🧑‍💻 Connect with me on LinkedIn <a href="https://linkedin.com/in/sheethal-r-gowda" target="blank"> alt="sheethal-r-gowda" /></a>
 
 - ⚙️ Familiar with **Python, JAVA, OOP's ,C, C++, Java Script**
 
