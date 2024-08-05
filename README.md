@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Devops,Generative AI**
 
-- 💬 Ask me about **Python, JAVA, OOP's ,C, C++, DSA**
+- ⚙️ Familiar with **Python, JAVA, OOP's ,C, C++, Java Script**
 
 - 📫 How to reach me **sheethugowda2003@gmail.com**
 
