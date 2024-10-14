@@ -9,4 +9,10 @@
 
 - 📫 How to reach me **sheethugowda2003@gmail.com**
 
+- Learning New Skill **DevOps**
+
+- Working On a Project **DevOps**
+
 - 👇 Check out my projects below!
+
+
