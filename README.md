@@ -11,8 +11,6 @@
 
 - Learning New Skill **DevOps**
 
-- Working On a Project **DevOps**
-
 - 👇 Check out my projects below!
 
 
