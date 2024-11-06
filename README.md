@@ -5,7 +5,7 @@
 
 - 📄 View my resume at [Resume]( https://sheethalsheethu.github.io/sheethalr/).
 
-- ⚙️ Familiar with **Python, JAVA, OOP's, C, C++, JavaScript**
+- ⚙️ Familiar with **Python, JAVA, DSA, OOP's, C, C++, JavaScript**
 
 - 📫 How to reach me **sheethugowda2003@gmail.com**
 
